@@ -56,9 +56,8 @@
             this.panelSuperior.Controls.Add(this.BtnCerrar);
             this.panelSuperior.Dock = System.Windows.Forms.DockStyle.Top;
             this.panelSuperior.Location = new System.Drawing.Point(0, 0);
-            this.panelSuperior.Margin = new System.Windows.Forms.Padding(2);
             this.panelSuperior.Name = "panelSuperior";
-            this.panelSuperior.Size = new System.Drawing.Size(812, 32);
+            this.panelSuperior.Size = new System.Drawing.Size(1218, 49);
             this.panelSuperior.TabIndex = 0;
             // 
             // btnMinimizar
@@ -69,10 +68,9 @@
             this.btnMinimizar.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Silver;
             this.btnMinimizar.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnMinimizar.Image = global::CrediTecTA.Properties.Resources.Icono_Minimizar;
-            this.btnMinimizar.Location = new System.Drawing.Point(712, 0);
-            this.btnMinimizar.Margin = new System.Windows.Forms.Padding(2);
+            this.btnMinimizar.Location = new System.Drawing.Point(1068, 0);
             this.btnMinimizar.Name = "btnMinimizar";
-            this.btnMinimizar.Size = new System.Drawing.Size(30, 32);
+            this.btnMinimizar.Size = new System.Drawing.Size(45, 49);
             this.btnMinimizar.TabIndex = 2;
             this.btnMinimizar.UseVisualStyleBackColor = true;
             this.btnMinimizar.Click += new System.EventHandler(this.btnMinimizar_Click);
@@ -85,10 +83,9 @@
             this.btnMaximizar.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Silver;
             this.btnMaximizar.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnMaximizar.Image = global::CrediTecTA.Properties.Resources.Icono_Maximizar;
-            this.btnMaximizar.Location = new System.Drawing.Point(747, 0);
-            this.btnMaximizar.Margin = new System.Windows.Forms.Padding(2);
+            this.btnMaximizar.Location = new System.Drawing.Point(1120, 0);
             this.btnMaximizar.Name = "btnMaximizar";
-            this.btnMaximizar.Size = new System.Drawing.Size(30, 32);
+            this.btnMaximizar.Size = new System.Drawing.Size(45, 49);
             this.btnMaximizar.TabIndex = 1;
             this.btnMaximizar.UseVisualStyleBackColor = true;
             this.btnMaximizar.Click += new System.EventHandler(this.btnMaximizar_Click);
@@ -102,10 +99,9 @@
             this.BtnCerrar.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Red;
             this.BtnCerrar.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.BtnCerrar.Image = global::CrediTecTA.Properties.Resources.Icono_cerrar_FN;
-            this.BtnCerrar.Location = new System.Drawing.Point(782, 0);
-            this.BtnCerrar.Margin = new System.Windows.Forms.Padding(2);
+            this.BtnCerrar.Location = new System.Drawing.Point(1173, 0);
             this.BtnCerrar.Name = "BtnCerrar";
-            this.BtnCerrar.Size = new System.Drawing.Size(30, 32);
+            this.BtnCerrar.Size = new System.Drawing.Size(45, 49);
             this.BtnCerrar.TabIndex = 0;
             this.BtnCerrar.UseVisualStyleBackColor = true;
             this.BtnCerrar.Click += new System.EventHandler(this.btnCerrar_Click);
@@ -123,20 +119,18 @@
             this.PanelMenu.Controls.Add(this.BtnCatalogo);
             this.PanelMenu.Controls.Add(this.BtnRegistro);
             this.PanelMenu.Controls.Add(this.BtnInicio);
-            this.PanelMenu.Location = new System.Drawing.Point(0, 32);
-            this.PanelMenu.Margin = new System.Windows.Forms.Padding(2);
+            this.PanelMenu.Location = new System.Drawing.Point(0, 49);
             this.PanelMenu.Name = "PanelMenu";
-            this.PanelMenu.Size = new System.Drawing.Size(186, 384);
+            this.PanelMenu.Size = new System.Drawing.Size(279, 591);
             this.PanelMenu.TabIndex = 0;
             // 
             // label1
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Microsoft YaHei UI", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(56, 35);
-            this.label1.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.label1.Location = new System.Drawing.Point(84, 54);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(96, 26);
+            this.label1.Size = new System.Drawing.Size(139, 37);
             this.label1.TabIndex = 0;
             this.label1.Text = "CrediTec";
             // 
@@ -150,10 +144,9 @@
             this.button1.ForeColor = System.Drawing.SystemColors.Desktop;
             this.button1.Image = global::CrediTecTA.Properties.Resources.energia;
             this.button1.ImageAlign = System.Drawing.ContentAlignment.MiddleRight;
-            this.button1.Location = new System.Drawing.Point(0, 341);
-            this.button1.Margin = new System.Windows.Forms.Padding(2);
+            this.button1.Location = new System.Drawing.Point(0, 525);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(184, 41);
+            this.button1.Size = new System.Drawing.Size(276, 63);
             this.button1.TabIndex = 8;
             this.button1.Text = "Cerrar Sesion";
             this.button1.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
@@ -171,10 +164,9 @@
             this.BtnCreditos.ForeColor = System.Drawing.SystemColors.Desktop;
             this.BtnCreditos.Image = global::CrediTecTA.Properties.Resources.descripcion_general;
             this.BtnCreditos.ImageAlign = System.Drawing.ContentAlignment.MiddleRight;
-            this.BtnCreditos.Location = new System.Drawing.Point(0, 217);
-            this.BtnCreditos.Margin = new System.Windows.Forms.Padding(2);
+            this.BtnCreditos.Location = new System.Drawing.Point(0, 334);
             this.BtnCreditos.Name = "BtnCreditos";
-            this.BtnCreditos.Size = new System.Drawing.Size(184, 41);
+            this.BtnCreditos.Size = new System.Drawing.Size(276, 63);
             this.BtnCreditos.TabIndex = 7;
             this.BtnCreditos.Text = "Ver creditos";
             this.BtnCreditos.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
@@ -192,10 +184,9 @@
             this.BtnCatalogo.ForeColor = System.Drawing.SystemColors.Desktop;
             this.BtnCatalogo.Image = global::CrediTecTA.Properties.Resources.catalogo_alternativo;
             this.BtnCatalogo.ImageAlign = System.Drawing.ContentAlignment.MiddleRight;
-            this.BtnCatalogo.Location = new System.Drawing.Point(0, 171);
-            this.BtnCatalogo.Margin = new System.Windows.Forms.Padding(2);
+            this.BtnCatalogo.Location = new System.Drawing.Point(0, 263);
             this.BtnCatalogo.Name = "BtnCatalogo";
-            this.BtnCatalogo.Size = new System.Drawing.Size(184, 41);
+            this.BtnCatalogo.Size = new System.Drawing.Size(276, 63);
             this.BtnCatalogo.TabIndex = 5;
             this.BtnCatalogo.Text = "Catalogo\r\n";
             this.BtnCatalogo.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
@@ -213,10 +204,9 @@
             this.BtnRegistro.ForeColor = System.Drawing.SystemColors.Desktop;
             this.BtnRegistro.Image = global::CrediTecTA.Properties.Resources.lista_del_portapapeles1;
             this.BtnRegistro.ImageAlign = System.Drawing.ContentAlignment.MiddleRight;
-            this.BtnRegistro.Location = new System.Drawing.Point(0, 126);
-            this.BtnRegistro.Margin = new System.Windows.Forms.Padding(2);
+            this.BtnRegistro.Location = new System.Drawing.Point(0, 194);
             this.BtnRegistro.Name = "BtnRegistro";
-            this.BtnRegistro.Size = new System.Drawing.Size(184, 41);
+            this.BtnRegistro.Size = new System.Drawing.Size(276, 63);
             this.BtnRegistro.TabIndex = 4;
             this.BtnRegistro.Text = "Registro\r\n";
             this.BtnRegistro.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
@@ -235,10 +225,9 @@
             this.BtnInicio.ForeColor = System.Drawing.SystemColors.Desktop;
             this.BtnInicio.Image = global::CrediTecTA.Properties.Resources.usuario_del_portapapeles;
             this.BtnInicio.ImageAlign = System.Drawing.ContentAlignment.MiddleRight;
-            this.BtnInicio.Location = new System.Drawing.Point(0, 80);
-            this.BtnInicio.Margin = new System.Windows.Forms.Padding(2);
+            this.BtnInicio.Location = new System.Drawing.Point(0, 123);
             this.BtnInicio.Name = "BtnInicio";
-            this.BtnInicio.Size = new System.Drawing.Size(184, 41);
+            this.BtnInicio.Size = new System.Drawing.Size(276, 63);
             this.BtnInicio.TabIndex = 3;
             this.BtnInicio.Text = "Inicio de Sesion";
             this.BtnInicio.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
@@ -252,10 +241,9 @@
             this.panelContenedor.BackColor = System.Drawing.Color.White;
             this.panelContenedor.Controls.Add(this.pictureBox1);
             this.panelContenedor.Controls.Add(this.label2);
-            this.panelContenedor.Location = new System.Drawing.Point(190, 32);
-            this.panelContenedor.Margin = new System.Windows.Forms.Padding(2);
+            this.panelContenedor.Location = new System.Drawing.Point(285, 49);
             this.panelContenedor.Name = "panelContenedor";
-            this.panelContenedor.Size = new System.Drawing.Size(621, 384);
+            this.panelContenedor.Size = new System.Drawing.Size(932, 591);
             this.panelContenedor.TabIndex = 2;
             this.panelContenedor.Paint += new System.Windows.Forms.PaintEventHandler(this.panelContenedor_Paint);
             // 
@@ -263,10 +251,9 @@
             // 
             this.pictureBox1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
             this.pictureBox1.Image = global::CrediTecTA.Properties.Resources.logo_tecTlaxiaco1;
-            this.pictureBox1.Location = new System.Drawing.Point(237, 63);
-            this.pictureBox1.Margin = new System.Windows.Forms.Padding(2);
+            this.pictureBox1.Location = new System.Drawing.Point(307, 97);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(206, 266);
+            this.pictureBox1.Size = new System.Drawing.Size(392, 409);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox1.TabIndex = 2;
             this.pictureBox1.TabStop = false;
@@ -275,23 +262,21 @@
             // 
             this.label2.AutoSize = true;
             this.label2.Font = new System.Drawing.Font("Microsoft YaHei UI", 19.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label2.Location = new System.Drawing.Point(179, 14);
-            this.label2.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.label2.Location = new System.Drawing.Point(268, 22);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(321, 36);
+            this.label2.Size = new System.Drawing.Size(473, 52);
             this.label2.TabIndex = 1;
             this.label2.Text = "Bienvenido a Creditec ";
             // 
             // Form1
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(812, 417);
+            this.ClientSize = new System.Drawing.Size(1218, 642);
             this.Controls.Add(this.panelContenedor);
             this.Controls.Add(this.PanelMenu);
             this.Controls.Add(this.panelSuperior);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
-            this.Margin = new System.Windows.Forms.Padding(2);
             this.Name = "Form1";
             this.Text = "Form1";
             this.panelSuperior.ResumeLayout(false);

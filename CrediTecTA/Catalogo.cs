@@ -13,6 +13,8 @@ namespace CrediTecTA
 {
     public partial class Catalogo : System.Windows.Forms.Form
     {
+        public static int totalCreditos = 0;
+    
         public Catalogo()
         {
             InitializeComponent();
@@ -20,9 +22,14 @@ namespace CrediTecTA
 
         private void BtnAsesorias2_Click(object sender, EventArgs e)
         {
+
+            if (Catalogo.totalCreditos < 5)
+            {
+                Catalogo.totalCreditos++;
+            }
+             
             Actividades actividades = new Actividades();
             actividades.ShowDialog();
-
             this.Hide();
         }
 
@@ -51,14 +58,21 @@ namespace CrediTecTA
 
         private void BtnAsesorias1_Click(object sender, EventArgs e)
         {
-            Actividades actividades = new Actividades();
+            if (Catalogo.totalCreditos < 5)
+            {
+                Catalogo.totalCreditos++;
+            }
+                Actividades actividades = new Actividades();
             actividades.ShowDialog();
-
             this.Hide();
         }
 
         private void BtnTutorias_Click(object sender, EventArgs e)
         {
+            if (Catalogo.totalCreditos < 5)
+            {
+                Catalogo.totalCreditos++;
+            }
             Actividades actividades = new Actividades();
             actividades.ShowDialog();
 
@@ -67,6 +81,10 @@ namespace CrediTecTA
 
         private void BtnEventosAcad_Click(object sender, EventArgs e)
         {
+            if (Catalogo.totalCreditos < 5)
+            {
+                Catalogo.totalCreditos++;
+            }
             Actividades actividades = new Actividades();
             actividades.ShowDialog();
 
@@ -75,6 +93,10 @@ namespace CrediTecTA
 
         private void BtnProyectos_Click(object sender, EventArgs e)
         {
+            if (Catalogo.totalCreditos < 5)
+            {
+                Catalogo.totalCreditos++;
+            }
             Actividades actividades = new Actividades();
             actividades.ShowDialog();
 

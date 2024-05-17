@@ -12,8 +12,10 @@ using BibliotecaCreditec;
 
 namespace CrediTecTA
 {
+    
     public partial class Creditos : Form
     {
+        
         public Creditos()
         {
             InitializeComponent();
@@ -32,9 +34,14 @@ namespace CrediTecTA
             this.Close();
         }
 
-        private void button2_Click(object sender, EventArgs e)
+        private void button2_Click(object sender, EventArgs e)  
         {
-
+            if (Catalogo.totalCreditos == 5)
+            {
+                MessageBox.Show("¡Felicidades! Acompletaste todos tus creditos.");
+            }
+            MessageBox.Show("Creditos totales: " + Catalogo.totalCreditos.ToString());
+            
         }
 
         private void btnSiguiente_Click(object sender, EventArgs e)
@@ -42,6 +49,11 @@ namespace CrediTecTA
             ImprimirCons imprimir = new ImprimirCons(); 
             imprimir.ShowDialog();
             this.Hide();
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

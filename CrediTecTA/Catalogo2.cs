@@ -47,6 +47,10 @@ namespace CrediTecTA
 
         private void BtnCursos_Click(object sender, EventArgs e)
         {
+            if (Catalogo.totalCreditos < 5)
+            {
+                Catalogo.totalCreditos++;
+            }
             Actividades actividades = new Actividades();
             actividades.ShowDialog();
 
@@ -55,6 +59,10 @@ namespace CrediTecTA
 
         private void BtnAmbiente_Click(object sender, EventArgs e)
         {
+            if (Catalogo.totalCreditos < 5)
+            {
+                Catalogo.totalCreditos++;
+            }
             Actividades actividades = new Actividades();
             actividades.ShowDialog();
 
@@ -63,6 +71,10 @@ namespace CrediTecTA
 
         private void BtnLectura1_Click(object sender, EventArgs e)
         {
+            if (Catalogo.totalCreditos < 5)
+            {
+                Catalogo.totalCreditos++;
+            }
             Actividades actividades = new Actividades();
             actividades.ShowDialog();
 
@@ -71,6 +83,10 @@ namespace CrediTecTA
 
         private void BtnOfertaEdu_Click(object sender, EventArgs e)
         {
+            if (Catalogo.totalCreditos < 5)
+            {
+                Catalogo.totalCreditos++;
+            }
             Actividades actividades = new Actividades();
             actividades.ShowDialog();
 
@@ -79,6 +95,10 @@ namespace CrediTecTA
 
         private void BtnLectura2_Click(object sender, EventArgs e)
         {
+            if (Catalogo.totalCreditos < 5)
+            {
+                Catalogo.totalCreditos++;
+            }
             Actividades actividades = new Actividades();
             actividades.ShowDialog();
 
