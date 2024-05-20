@@ -9,6 +9,7 @@ using System.Threading;
 using System.Windows.Forms;
 using BibliotecaCreditec;
 using static System.Windows.Forms.VisualStyles.VisualStyleElement;
+
 namespace CrediTecTA
 {
     public partial class Form1 : System.Windows.Forms.Form
@@ -21,7 +22,6 @@ namespace CrediTecTA
         private void btnCerrar_Click(object sender, EventArgs e)
         {
             this.Close();
-
         }
 
         private void btnMaximizar_Click(object sender, EventArgs e)
@@ -43,70 +43,39 @@ namespace CrediTecTA
 
         private void panelContenedor_Paint(object sender, PaintEventArgs e)
         {
-
         }
-
-
 
         private static void panelMenu_Paint(object sender, PaintEventArgs e)
         {
-
         }
-
-
-
 
         private void button1_Click_1(object sender, EventArgs e)
         {
-
         }
 
         private void BtnRegistro_Click(object sender, EventArgs e)
         {
-            AbrirFormEnPanel(new RegistroUsuario());
+            IniciarNuevoFormulario(new RegistroUsuario());
         }
 
         private void BtnCatalogo_Click(object sender, EventArgs e)
         {
-            AbrirFormEnPanel(new Catalogo());
+            IniciarNuevoFormulario(new Catalogo());
         }
 
         private void BtnInicio_Click(object sender, EventArgs e)
         {
-            AbrirFormEnPanel(new InicioSesion());
-
-        }
-        private void AbrirFormEnPanel(System.Windows.Forms.Form formHijo)
-        {
-            // Si hay algún control dentro del panel, quítalo
-            if (this.panelContenedor.Controls.Count > 0)
-            {
-                this.panelContenedor.Controls.RemoveAt(0);
-            }
-
-            // Establece algunas propiedades del formulario hijo para que se ajuste al panel
-            formHijo.TopLevel = false;
-            formHijo.FormBorderStyle = FormBorderStyle.None;
-            formHijo.Dock = DockStyle.Fill;
-
-            // Agrega el formulario hijo al panel
-            this.panelContenedor.Controls.Add(formHijo);
-
-            // Almacena el formulario hijo en la propiedad Tag del panel (puedes usarlo para referenciarlo más tarde si es necesario)
-            this.panelContenedor.Tag = formHijo;
-
-            // Muestra el formulario hijo dentro del panel
-            formHijo.Show();
+            IniciarNuevoFormulario(new InicioSesion());
         }
 
         private void BtnActiviades_Click(object sender, EventArgs e)
         {
-            AbrirFormEnPanel(new Actividades());
+            IniciarNuevoFormulario(new Actividades());
         }
 
         private void BtnCreditos_Click(object sender, EventArgs e)
         {
-            AbrirFormEnPanel(new Creditos());
+            IniciarNuevoFormulario(new Creditos());
         }
 
         private void button1_Click(object sender, EventArgs e)
@@ -114,6 +83,20 @@ namespace CrediTecTA
             this.Close();
         }
 
+        private void PanelMenu_Paint_1(object sender, PaintEventArgs e)
+        {
+        }
 
+        private void IniciarNuevoFormulario(Form form)
+        {
+            Thread thread = new Thread(() =>
+            {
+                form.StartPosition = FormStartPosition.CenterScreen;
+                form.FormClosed += (s, args) => Application.ExitThread(); // Cerrar el hilo cuando el formulario se cierra
+                Application.Run(form);
+            });
+            thread.SetApartmentState(ApartmentState.STA);
+            thread.Start();
+        }
     }
 }
