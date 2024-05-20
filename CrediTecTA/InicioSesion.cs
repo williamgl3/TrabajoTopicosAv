@@ -40,5 +40,10 @@ namespace CrediTecTA
         {
 
         }
+
+        private void InicioSesion_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

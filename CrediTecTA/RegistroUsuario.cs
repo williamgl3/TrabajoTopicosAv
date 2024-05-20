@@ -32,7 +32,7 @@ namespace CrediTecTA
         {
 
         }
-
+         
         private void buttonContinuar_Click(object sender, EventArgs e)
         {
             Catalogo catalogo = new Catalogo();

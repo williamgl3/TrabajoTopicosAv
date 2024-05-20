@@ -46,7 +46,7 @@
             this.BtnLectura1.Location = new System.Drawing.Point(33, 261);
             this.BtnLectura1.Margin = new System.Windows.Forms.Padding(2);
             this.BtnLectura1.Name = "BtnLectura1";
-            this.BtnLectura1.Size = new System.Drawing.Size(214, 68);
+            this.BtnLectura1.Size = new System.Drawing.Size(224, 75);
             this.BtnLectura1.TabIndex = 26;
             this.BtnLectura1.Text = "Programa de Fomento a la Lectura\r\n1 credito 20 Hrs";
             this.BtnLectura1.UseVisualStyleBackColor = true;
@@ -55,7 +55,7 @@
             // BtnAmbiente
             // 
             this.BtnAmbiente.Font = new System.Drawing.Font("Arial", 7.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.BtnAmbiente.Location = new System.Drawing.Point(22, 158);
+            this.BtnAmbiente.Location = new System.Drawing.Point(33, 158);
             this.BtnAmbiente.Margin = new System.Windows.Forms.Padding(2);
             this.BtnAmbiente.Name = "BtnAmbiente";
             this.BtnAmbiente.Size = new System.Drawing.Size(224, 75);
@@ -71,7 +71,7 @@
             this.BtnOfertaEdu.Location = new System.Drawing.Point(341, 54);
             this.BtnOfertaEdu.Margin = new System.Windows.Forms.Padding(2);
             this.BtnOfertaEdu.Name = "BtnOfertaEdu";
-            this.BtnOfertaEdu.Size = new System.Drawing.Size(242, 72);
+            this.BtnOfertaEdu.Size = new System.Drawing.Size(224, 75);
             this.BtnOfertaEdu.TabIndex = 24;
             this.BtnOfertaEdu.Text = "Difusion de la Oferta Educativa\r\ndifusión de la oferta educativa en instituciones" +
     " de nivel \r\nmedio superior\r\n2 Creditos 40 Hrs";
@@ -81,10 +81,10 @@
             // BtnCursos
             // 
             this.BtnCursos.Font = new System.Drawing.Font("Arial", 7.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.BtnCursos.Location = new System.Drawing.Point(22, 54);
+            this.BtnCursos.Location = new System.Drawing.Point(33, 54);
             this.BtnCursos.Margin = new System.Windows.Forms.Padding(2);
             this.BtnCursos.Name = "BtnCursos";
-            this.BtnCursos.Size = new System.Drawing.Size(224, 72);
+            this.BtnCursos.Size = new System.Drawing.Size(224, 75);
             this.BtnCursos.TabIndex = 23;
             this.BtnCursos.Text = "Cursos Mocs\r\nCursos MOOC s (cursos en línea de manera \r\nautodidactica).\r\n2 Credit" +
     "os 40 Hrs";
@@ -140,7 +140,7 @@
             this.BtnLectura2.Location = new System.Drawing.Point(341, 158);
             this.BtnLectura2.Margin = new System.Windows.Forms.Padding(2);
             this.BtnLectura2.Name = "BtnLectura2";
-            this.BtnLectura2.Size = new System.Drawing.Size(242, 75);
+            this.BtnLectura2.Size = new System.Drawing.Size(224, 75);
             this.BtnLectura2.TabIndex = 27;
             this.BtnLectura2.Text = "Programa de Fomento a la Lectura\r\n2 Creditos 40 Hrs";
             this.BtnLectura2.UseVisualStyleBackColor = true;
@@ -149,7 +149,7 @@
             // button3
             // 
             this.button3.Font = new System.Drawing.Font("Arial", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button3.Location = new System.Drawing.Point(341, 297);
+            this.button3.Location = new System.Drawing.Point(457, 304);
             this.button3.Margin = new System.Windows.Forms.Padding(2);
             this.button3.Name = "button3";
             this.button3.Size = new System.Drawing.Size(108, 32);

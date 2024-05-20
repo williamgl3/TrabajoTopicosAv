@@ -33,7 +33,7 @@
             this.panel1 = new System.Windows.Forms.Panel();
             this.progressBar1 = new System.Windows.Forms.ProgressBar();
             this.txtContador = new System.Windows.Forms.TextBox();
-            this.txtResultado = new System.Windows.Forms.TextBox();
+            this.label1 = new System.Windows.Forms.Label();
             this.panel1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -94,21 +94,23 @@
             this.txtContador.TabIndex = 25;
             this.txtContador.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
-            // txtResultado
+            // label1
             // 
-            this.txtResultado.Location = new System.Drawing.Point(308, 148);
-            this.txtResultado.Name = "txtResultado";
-            this.txtResultado.Size = new System.Drawing.Size(180, 20);
-            this.txtResultado.TabIndex = 24;
-            this.txtResultado.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.label1.AutoSize = true;
+            this.label1.Location = new System.Drawing.Point(358, 154);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(79, 13);
+            this.label1.TabIndex = 26;
+            this.label1.Text = "FELICIDADES!";
+            this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
             // ImprimirCons
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.label1);
             this.Controls.Add(this.txtContador);
-            this.Controls.Add(this.txtResultado);
             this.Controls.Add(this.progressBar1);
             this.Controls.Add(this.panel1);
             this.Controls.Add(this.btnProcesar);
@@ -128,6 +130,6 @@
         private System.Windows.Forms.Panel panel1;
         private System.Windows.Forms.ProgressBar progressBar1;
         private System.Windows.Forms.TextBox txtContador;
-        private System.Windows.Forms.TextBox txtResultado;
+        private System.Windows.Forms.Label label1;
     }
 }
