@@ -13,24 +13,46 @@ namespace CrediTecTA
 {
     public partial class InicioSesion : Form
     {
-       
 
-       
-        
+
+
+
         public InicioSesion()
         {
             InitializeComponent();
         }
 
         private void BtnContinuarInicioS_Click(object sender, EventArgs e)
+
         {
-            RegistroUsuario registro = new RegistroUsuario();
-            registro.Show();
+            string usuario = txtUsuario.Text;
+            string password = txtPassword.Text;
 
-            this.Hide();
-
+            try
+            {
+                Control ctrl = new Control();
+                string respuesta = ctrl.ctrlLogin(usuario, password);
+                if (respuesta.Length > 0)
+                {
+                    MessageBox.Show(respuesta, "Aviso", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                }
+                else
+                {
+                   FormPrincipal frmp = new FormPrincipal();
+                    frmp.Visible = true;
+                    this.Visible = false;
+                }
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message, "Aviso", MessageBoxButtons.OK, MessageBoxIcon.Information);
+            }
         }
 
+        private void InicioSesion_Load(object sender, EventArgs e)
+        {
+
+        }
         private void BtnCerrar_Click(object sender, EventArgs e)
         {
             this.Close();
@@ -41,9 +63,12 @@ namespace CrediTecTA
 
         }
 
-        private void InicioSesion_Load(object sender, EventArgs e)
+      
+        private void btnRegistrar_Click(object sender, EventArgs e)
         {
-
+            RegistroUsuario registro = new RegistroUsuario();
+            registro.Show();
+            this.Hide();
         }
     }
 }

@@ -1,46 +1,50 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\HP\\TrabajoTopicosAv\\",
+  "WorkspaceRootPath": "C:\\Users\\Pavilion\\Desktop\\TrabajoTopicosAv\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{88914A5C-5CCF-4B97-9C3E-C843397FB1BC}|CrediTecTA\\CrediTecTA.csproj|C:\\Users\\HP\\TrabajoTopicosAv\\CrediTecTA\\Inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{88914A5C-5CCF-4B97-9C3E-C843397FB1BC}|CrediTecTA\\CrediTecTA.csproj|solutionrelative:CrediTecTA\\Inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{88914A5C-5CCF-4B97-9C3E-C843397FB1BC}|CrediTecTA\\CrediTecTA.csproj|C:\\Users\\Pavilion\\Desktop\\TrabajoTopicosAv\\creditecta\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88914A5C-5CCF-4B97-9C3E-C843397FB1BC}|CrediTecTA\\CrediTecTA.csproj|solutionrelative:creditecta\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{88914A5C-5CCF-4B97-9C3E-C843397FB1BC}|CrediTecTA\\CrediTecTA.csproj|C:\\Users\\HP\\TrabajoTopicosAv\\creditecta\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{88914A5C-5CCF-4B97-9C3E-C843397FB1BC}|CrediTecTA\\CrediTecTA.csproj|solutionrelative:creditecta\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{88914A5C-5CCF-4B97-9C3E-C843397FB1BC}|CrediTecTA\\CrediTecTA.csproj|C:\\Users\\Pavilion\\Desktop\\TrabajoTopicosAv\\creditecta\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88914A5C-5CCF-4B97-9C3E-C843397FB1BC}|CrediTecTA\\CrediTecTA.csproj|solutionrelative:creditecta\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{88914A5C-5CCF-4B97-9C3E-C843397FB1BC}|CrediTecTA\\CrediTecTA.csproj|c:\\users\\hp\\trabajotopicosav\\creditecta\\imprimircons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{88914A5C-5CCF-4B97-9C3E-C843397FB1BC}|CrediTecTA\\CrediTecTA.csproj|solutionrelative:creditecta\\imprimircons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{88914A5C-5CCF-4B97-9C3E-C843397FB1BC}|CrediTecTA\\CrediTecTA.csproj|C:\\Users\\Pavilion\\Desktop\\TrabajoTopicosAv\\creditecta\\registrousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88914A5C-5CCF-4B97-9C3E-C843397FB1BC}|CrediTecTA\\CrediTecTA.csproj|solutionrelative:creditecta\\registrousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{88914A5C-5CCF-4B97-9C3E-C843397FB1BC}|CrediTecTA\\CrediTecTA.csproj|C:\\Users\\HP\\TrabajoTopicosAv\\creditecta\\imprimircons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{88914A5C-5CCF-4B97-9C3E-C843397FB1BC}|CrediTecTA\\CrediTecTA.csproj|solutionrelative:creditecta\\imprimircons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{88914A5C-5CCF-4B97-9C3E-C843397FB1BC}|CrediTecTA\\CrediTecTA.csproj|C:\\Users\\Pavilion\\Desktop\\TrabajoTopicosAv\\creditecta\\registrousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{88914A5C-5CCF-4B97-9C3E-C843397FB1BC}|CrediTecTA\\CrediTecTA.csproj|solutionrelative:creditecta\\registrousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{88914A5C-5CCF-4B97-9C3E-C843397FB1BC}|CrediTecTA\\CrediTecTA.csproj|C:\\Users\\HP\\TrabajoTopicosAv\\creditecta\\iniciosesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{88914A5C-5CCF-4B97-9C3E-C843397FB1BC}|CrediTecTA\\CrediTecTA.csproj|C:\\Users\\Pavilion\\Desktop\\TrabajoTopicosAv\\creditecta\\iniciosesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88914A5C-5CCF-4B97-9C3E-C843397FB1BC}|CrediTecTA\\CrediTecTA.csproj|solutionrelative:creditecta\\iniciosesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88914A5C-5CCF-4B97-9C3E-C843397FB1BC}|CrediTecTA\\CrediTecTA.csproj|C:\\Users\\Pavilion\\Desktop\\TrabajoTopicosAv\\creditecta\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{88914A5C-5CCF-4B97-9C3E-C843397FB1BC}|CrediTecTA\\CrediTecTA.csproj|solutionrelative:creditecta\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88914A5C-5CCF-4B97-9C3E-C843397FB1BC}|CrediTecTA\\CrediTecTA.csproj|C:\\Users\\Pavilion\\Desktop\\TrabajoTopicosAv\\creditecta\\control.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88914A5C-5CCF-4B97-9C3E-C843397FB1BC}|CrediTecTA\\CrediTecTA.csproj|solutionrelative:creditecta\\control.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88914A5C-5CCF-4B97-9C3E-C843397FB1BC}|CrediTecTA\\CrediTecTA.csproj|C:\\Users\\Pavilion\\Desktop\\TrabajoTopicosAv\\creditecta\\usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88914A5C-5CCF-4B97-9C3E-C843397FB1BC}|CrediTecTA\\CrediTecTA.csproj|solutionrelative:creditecta\\usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88914A5C-5CCF-4B97-9C3E-C843397FB1BC}|CrediTecTA\\CrediTecTA.csproj|C:\\Users\\Pavilion\\Desktop\\TrabajoTopicosAv\\creditecta\\modelo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88914A5C-5CCF-4B97-9C3E-C843397FB1BC}|CrediTecTA\\CrediTecTA.csproj|solutionrelative:creditecta\\modelo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88914A5C-5CCF-4B97-9C3E-C843397FB1BC}|CrediTecTA\\CrediTecTA.csproj|C:\\Users\\Pavilion\\Desktop\\TrabajoTopicosAv\\creditecta\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88914A5C-5CCF-4B97-9C3E-C843397FB1BC}|CrediTecTA\\CrediTecTA.csproj|solutionrelative:creditecta\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88914A5C-5CCF-4B97-9C3E-C843397FB1BC}|CrediTecTA\\CrediTecTA.csproj|C:\\Users\\Pavilion\\Desktop\\TrabajoTopicosAv\\creditecta\\iniciosesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{88914A5C-5CCF-4B97-9C3E-C843397FB1BC}|CrediTecTA\\CrediTecTA.csproj|solutionrelative:creditecta\\iniciosesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{88914A5C-5CCF-4B97-9C3E-C843397FB1BC}|CrediTecTA\\CrediTecTA.csproj|C:\\Users\\HP\\TrabajoTopicosAv\\CrediTecTA\\Creditos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{88914A5C-5CCF-4B97-9C3E-C843397FB1BC}|CrediTecTA\\CrediTecTA.csproj|solutionrelative:CrediTecTA\\Creditos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{88914A5C-5CCF-4B97-9C3E-C843397FB1BC}|CrediTecTA\\CrediTecTA.csproj|C:\\Users\\HP\\TrabajoTopicosAv\\CrediTecTA\\Catalogo2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{88914A5C-5CCF-4B97-9C3E-C843397FB1BC}|CrediTecTA\\CrediTecTA.csproj|solutionrelative:CrediTecTA\\Catalogo2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{88914A5C-5CCF-4B97-9C3E-C843397FB1BC}|CrediTecTA\\CrediTecTA.csproj|C:\\Users\\HP\\TrabajoTopicosAv\\CrediTecTA\\Catalogo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{88914A5C-5CCF-4B97-9C3E-C843397FB1BC}|CrediTecTA\\CrediTecTA.csproj|solutionrelative:CrediTecTA\\Catalogo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{88914A5C-5CCF-4B97-9C3E-C843397FB1BC}|CrediTecTA\\CrediTecTA.csproj|C:\\Users\\HP\\TrabajoTopicosAv\\CrediTecTA\\Catalogo2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{88914A5C-5CCF-4B97-9C3E-C843397FB1BC}|CrediTecTA\\CrediTecTA.csproj|solutionrelative:CrediTecTA\\Catalogo2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{88914A5C-5CCF-4B97-9C3E-C843397FB1BC}|CrediTecTA\\CrediTecTA.csproj|C:\\Users\\HP\\TrabajoTopicosAv\\CrediTecTA\\Actividades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{88914A5C-5CCF-4B97-9C3E-C843397FB1BC}|CrediTecTA\\CrediTecTA.csproj|solutionrelative:CrediTecTA\\Actividades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,124 +54,143 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 3,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ImprimirCons.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\HP\\TrabajoTopicosAv\\CrediTecTA\\ImprimirCons.cs",
-              "RelativeDocumentMoniker": "CrediTecTA\\ImprimirCons.cs",
-              "ToolTip": "C:\\Users\\HP\\TrabajoTopicosAv\\CrediTecTA\\ImprimirCons.cs [Dise\u00F1o]",
-              "RelativeToolTip": "CrediTecTA\\ImprimirCons.cs [Dise\u00F1o]",
+              "DocumentIndex": 1,
+              "Title": "FormPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\Pavilion\\Desktop\\TrabajoTopicosAv\\CrediTecTA\\FormPrincipal.cs",
+              "RelativeDocumentMoniker": "CrediTecTA\\FormPrincipal.cs",
+              "ToolTip": "C:\\Users\\Pavilion\\Desktop\\TrabajoTopicosAv\\CrediTecTA\\FormPrincipal.cs",
+              "RelativeToolTip": "CrediTecTA\\FormPrincipal.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAowBUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-25T18:44:15.706Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2024-05-29T00:18:18.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Session.cs",
+              "DocumentMoniker": "C:\\Users\\Pavilion\\Desktop\\TrabajoTopicosAv\\CrediTecTA\\Session.cs",
+              "RelativeDocumentMoniker": "CrediTecTA\\Session.cs",
+              "ToolTip": "C:\\Users\\Pavilion\\Desktop\\TrabajoTopicosAv\\CrediTecTA\\Session.cs",
+              "RelativeToolTip": "CrediTecTA\\Session.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T23:58:43.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Conexion.cs",
+              "DocumentMoniker": "C:\\Users\\Pavilion\\Desktop\\TrabajoTopicosAv\\CrediTecTA\\Conexion.cs",
+              "RelativeDocumentMoniker": "CrediTecTA\\Conexion.cs",
+              "ToolTip": "C:\\Users\\Pavilion\\Desktop\\TrabajoTopicosAv\\CrediTecTA\\Conexion.cs",
+              "RelativeToolTip": "CrediTecTA\\Conexion.cs",
+              "ViewState": "AQIAAAkAAAAgZmZmZmY0wBAAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T23:58:23.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Modelo.cs",
+              "DocumentMoniker": "C:\\Users\\Pavilion\\Desktop\\TrabajoTopicosAv\\CrediTecTA\\Modelo.cs",
+              "RelativeDocumentMoniker": "CrediTecTA\\Modelo.cs",
+              "ToolTip": "C:\\Users\\Pavilion\\Desktop\\TrabajoTopicosAv\\CrediTecTA\\Modelo.cs",
+              "RelativeToolTip": "CrediTecTA\\Modelo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T23:57:40.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Usuarios.cs",
+              "DocumentMoniker": "C:\\Users\\Pavilion\\Desktop\\TrabajoTopicosAv\\CrediTecTA\\Usuarios.cs",
+              "RelativeDocumentMoniker": "CrediTecTA\\Usuarios.cs",
+              "ToolTip": "C:\\Users\\Pavilion\\Desktop\\TrabajoTopicosAv\\CrediTecTA\\Usuarios.cs",
+              "RelativeToolTip": "CrediTecTA\\Usuarios.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T23:56:40.073Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Catalogo2.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\HP\\TrabajoTopicosAv\\CrediTecTA\\Catalogo2.cs",
-              "RelativeDocumentMoniker": "CrediTecTA\\Catalogo2.cs",
-              "ToolTip": "C:\\Users\\NOE\\TrabajoTopicosAv\\CrediTecTA\\Catalogo2.cs [Dise\u00F1o]",
-              "RelativeToolTip": "..\\..\\NOE\\TrabajoTopicosAv\\CrediTecTA\\Catalogo2.cs [Dise\u00F1o]",
+              "Title": "Control.cs",
+              "DocumentMoniker": "C:\\Users\\Pavilion\\Desktop\\TrabajoTopicosAv\\CrediTecTA\\Control.cs",
+              "RelativeDocumentMoniker": "CrediTecTA\\Control.cs",
+              "ToolTip": "C:\\Users\\Pavilion\\Desktop\\TrabajoTopicosAv\\CrediTecTA\\Control.cs",
+              "RelativeToolTip": "CrediTecTA\\Control.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-18T05:27:34.735Z"
+              "WhenOpened": "2024-05-28T23:56:28.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RegistroUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\Pavilion\\Desktop\\TrabajoTopicosAv\\CrediTecTA\\RegistroUsuario.cs",
+              "RelativeDocumentMoniker": "CrediTecTA\\RegistroUsuario.cs",
+              "ToolTip": "C:\\Users\\Pavilion\\Desktop\\TrabajoTopicosAv\\CrediTecTA\\RegistroUsuario.cs",
+              "RelativeToolTip": "CrediTecTA\\RegistroUsuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T23:47:37.425Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "InicioSesion.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\HP\\TrabajoTopicosAv\\CrediTecTA\\InicioSesion.cs",
+              "Title": "InicioSesion.cs",
+              "DocumentMoniker": "C:\\Users\\Pavilion\\Desktop\\TrabajoTopicosAv\\CrediTecTA\\InicioSesion.cs",
               "RelativeDocumentMoniker": "CrediTecTA\\InicioSesion.cs",
-              "ToolTip": "C:\\Users\\NOE\\TrabajoTopicosAv\\CrediTecTA\\InicioSesion.cs [Dise\u00F1o]",
-              "RelativeToolTip": "..\\..\\NOE\\TrabajoTopicosAv\\CrediTecTA\\InicioSesion.cs [Dise\u00F1o]",
+              "ToolTip": "C:\\Users\\Pavilion\\Desktop\\TrabajoTopicosAv\\CrediTecTA\\InicioSesion.cs",
+              "RelativeToolTip": "CrediTecTA\\InicioSesion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T23:35:45.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RegistroUsuario.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Pavilion\\Desktop\\TrabajoTopicosAv\\CrediTecTA\\RegistroUsuario.cs",
+              "RelativeDocumentMoniker": "CrediTecTA\\RegistroUsuario.cs",
+              "ToolTip": "C:\\Users\\Pavilion\\Desktop\\TrabajoTopicosAv\\CrediTecTA\\RegistroUsuario.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CrediTecTA\\RegistroUsuario.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T23:29:24.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "InicioSesion.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Pavilion\\Desktop\\TrabajoTopicosAv\\CrediTecTA\\InicioSesion.cs",
+              "RelativeDocumentMoniker": "CrediTecTA\\InicioSesion.cs",
+              "ToolTip": "C:\\Users\\Pavilion\\Desktop\\TrabajoTopicosAv\\CrediTecTA\\InicioSesion.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CrediTecTA\\InicioSesion.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-16T23:38:55.596Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ImprimirCons.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\TrabajoTopicosAv\\CrediTecTA\\ImprimirCons.cs",
-              "RelativeDocumentMoniker": "CrediTecTA\\ImprimirCons.cs",
-              "ToolTip": "C:\\Users\\HP\\TrabajoTopicosAv\\CrediTecTA\\ImprimirCons.cs",
-              "RelativeToolTip": "CrediTecTA\\ImprimirCons.cs",
-              "ViewState": "AQIAACwAAAAAAAAAAAAQwDUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-25T18:45:14.506Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Inicio.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\HP\\TrabajoTopicosAv\\CrediTecTA\\Inicio.cs",
-              "RelativeDocumentMoniker": "CrediTecTA\\Inicio.cs",
-              "ToolTip": "C:\\Users\\HP\\TrabajoTopicosAv\\CrediTecTA\\Inicio.cs [Dise\u00F1o]",
-              "RelativeToolTip": "CrediTecTA\\Inicio.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-20T16:00:04.372Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Inicio.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\TrabajoTopicosAv\\CrediTecTA\\Inicio.cs",
-              "RelativeDocumentMoniker": "CrediTecTA\\Inicio.cs",
-              "ToolTip": "C:\\Users\\HP\\TrabajoTopicosAv\\CrediTecTA\\Inicio.cs",
-              "RelativeToolTip": "CrediTecTA\\Inicio.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGUAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-21T16:15:38.447Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Creditos.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\HP\\TrabajoTopicosAv\\CrediTecTA\\Creditos.cs",
-              "RelativeDocumentMoniker": "CrediTecTA\\Creditos.cs",
-              "ToolTip": "C:\\Users\\NOE\\TrabajoTopicosAv\\CrediTecTA\\Creditos.cs [Dise\u00F1o]",
-              "RelativeToolTip": "..\\..\\NOE\\TrabajoTopicosAv\\CrediTecTA\\Creditos.cs [Dise\u00F1o]",
+              "Title": "FormPrincipal.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Pavilion\\Desktop\\TrabajoTopicosAv\\CrediTecTA\\FormPrincipal.cs",
+              "RelativeDocumentMoniker": "CrediTecTA\\FormPrincipal.cs",
+              "ToolTip": "C:\\Users\\Pavilion\\Desktop\\TrabajoTopicosAv\\CrediTecTA\\FormPrincipal.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CrediTecTA\\FormPrincipal.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-18T05:46:01.44Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Catalogo.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\HP\\TrabajoTopicosAv\\CrediTecTA\\Catalogo.cs",
-              "RelativeDocumentMoniker": "CrediTecTA\\Catalogo.cs",
-              "ToolTip": "C:\\Users\\NOE\\TrabajoTopicosAv\\CrediTecTA\\Catalogo.cs [Dise\u00F1o]",
-              "RelativeToolTip": "..\\..\\NOE\\TrabajoTopicosAv\\CrediTecTA\\Catalogo.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-18T05:26:32.408Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Catalogo2.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\TrabajoTopicosAv\\CrediTecTA\\Catalogo2.cs",
-              "RelativeDocumentMoniker": "CrediTecTA\\Catalogo2.cs",
-              "ToolTip": "C:\\Users\\HP\\TrabajoTopicosAv\\CrediTecTA\\Catalogo2.cs",
-              "RelativeToolTip": "CrediTecTA\\Catalogo2.cs",
-              "ViewState": "AQIAAFoAAAAAAAAAAAAqwGQAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-20T21:07:11.561Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Actividades.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\TrabajoTopicosAv\\CrediTecTA\\Actividades.cs",
-              "RelativeDocumentMoniker": "CrediTecTA\\Actividades.cs",
-              "ToolTip": "C:\\Users\\HP\\TrabajoTopicosAv\\CrediTecTA\\Actividades.cs",
-              "RelativeToolTip": "CrediTecTA\\Actividades.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-20T21:48:10.477Z"
+              "WhenOpened": "2024-05-28T23:45:43.113Z",
+              "EditorCaption": " [Dise\u00F1o]"
             }
           ]
         }
