@@ -42,6 +42,8 @@ namespace CrediTecTA
                     frmp.Visible = true;
                     this.Visible = false;
                 }
+                MessageBox.Show("Inicio de sesion !Exitoso¡ ");
+
             }
             catch (Exception ex)
             {
